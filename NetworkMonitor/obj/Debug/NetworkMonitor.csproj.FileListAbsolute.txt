@@ -1,0 +1,12 @@
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe.config
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.exe
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\bin\Debug\NetworkMonitor.pdb
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.ClientForm.resources
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.ServerForm.resources
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.StartDialog.resources
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.Properties.Resources.resources
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.GenerateResource.cache
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.CoreCompileInputs.cache
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.exe
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.pdb
+C:\Users\hjh22\source\repos\NetworkMonitor\NetworkMonitor\obj\Debug\NetworkMonitor.csproj.AssemblyReference.cache
